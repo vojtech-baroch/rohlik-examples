@@ -1,0 +1,22 @@
+{
+	"prettier.useTabs": false,
+	"prettier.singleQuote": true,
+	"prettier.trailingComma": "es5",
+	"prettier.printWidth": 120,
+	// "prettier.eslintIntegration": true,
+	"prettier.stylelintIntegration": true,
+	"prettier.tslintIntegration": true,
+	"editor.useTabStops": false,
+	"editor.insertSpaces": true,
+	"editor.detectIndentation": false,
+	"editor.tabSize": 2,
+	"javascript.validate.enable": false,
+	"typescript.validate.enable": true,
+	"css.validate": false,
+	"scss.validate": false,
+	"editor.formatOnSave": true,
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"javascript.implicitProjectConfig.experimentalDecorators": true,
+	"javascript.preferences.importModuleSpecifier": "relative",
+	"typescript.preferences.importModuleSpecifier": "relative"
+  }
